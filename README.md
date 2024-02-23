@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm John-Loyd!</h1>
-<h3 align="center">A passionate UI/UX Designer and Developer from Philippines</h3>
+<h1 align="left">Hi 👋, I'm John-Loyd!</h1>
+<h3 align="left">A passionate UI/UX Designer and Developer from Philippines</h3>
 
 - 📫 How to reach me: **jlbillano29@gmail.com**
 - 🌍 I am based from Caloocan City, Philippines
