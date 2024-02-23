@@ -2,9 +2,7 @@
 <h3 align="center">A passionate UI/UX Designer and Developer from Philippines</h3>
 
 - 📫 How to reach me: **jlbillano29@gmail.com**
-
 - 🌍 I am based from Caloocan City, Philippines
-
 - ⚡ Fun fact **I also work as an Event Coordinator!**
 
 <h3 align="left">Connect with me:</h3>
