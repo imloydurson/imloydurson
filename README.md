@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm John-Loyd!</h1>
-<h3 align="left">A passionate UI/UX Designer and Developer from Philippines</h3>
+<h3 align="left">A passionate UI/UX Designer and QA Tester from Philippines</h3>
 
 - 📫 How to reach me: **billanojl@gmail.com**
 - 🌍 I am based from Caloocan City, Philippines
