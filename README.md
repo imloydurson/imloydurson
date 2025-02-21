@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: **billanojl@gmail.com**
 - 🌍 I am based from Caloocan City, Philippines
-- ⚡ Fun fact **I also work as an Event Coordinator!**
+- ⚡ Fun fact **I worked as an Event Coordinator!**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
